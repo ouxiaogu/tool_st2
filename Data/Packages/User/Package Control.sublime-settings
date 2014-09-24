@@ -1,0 +1,20 @@
+{
+  "installed_packages":
+  [
+    "CTags",
+    "Github Tools",
+    "Lua Dev",
+    "LuaAutocomplete",
+    "MarkdownEditing",
+    "Package Control",
+    "SublimeCodeIntel",
+    "SublimeREPL",
+    "Theme - Phoenix",
+    "Theme - Soda"
+  ],
+
+  "repositories":
+	[
+		"https://sublime.wbond.net/repositories.json"
+	]
+}
