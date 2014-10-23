@@ -2,10 +2,10 @@
 	"folder_history":
 	[
 	],
-	"last_window_id": 7,
+	"last_window_id": 19,
 	"settings":
 	{
-		"new_window_height": 487.0,
+		"new_window_height": 532.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -13,484 +13,9 @@
 				"selected_items":
 				[
 					[
-						"export",
-						"export_data"
+						"best",
+						"best_focus2"
 					],
-					[
-						"fu",
-						"function	function"
-					],
-					[
-						"num",
-						"num_y"
-					],
-					[
-						"bce",
-						"bcelllist1"
-					],
-					[
-						"cod",
-						"code	Tag"
-					]
-				]
-			},
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 375.0,
-				"selected_items":
-				[
-					[
-						"git",
-						"Github: Open File"
-					],
-					[
-						"gi",
-						"Github: Repository"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"Package Control: ",
-						"Package Control: List Packages"
-					],
-					[
-						"enable",
-						"Package Control: Enable Package"
-					],
-					[
-						"repl",
-						"SublimeREPL: Shell"
-					],
-					[
-						"REPL",
-						"SublimeREPL: Lua"
-					],
-					[
-						"enble",
-						"Package Control: Enable Package"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
-						"",
-						"CTags: Show Symbols (all)"
-					],
-					[
-						"remp",
-						"Package Control: Remove Package"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"remo",
-						"Package Control: Remove Package"
-					],
-					[
-						"remv",
-						"Package Control: Remove Package"
-					],
-					[
-						"package in",
-						"Package Control: Install Package"
-					],
-					[
-						"dis",
-						"Package Control: Disable Package"
-					],
-					[
-						"enab",
-						"Package Control: Enable Package"
-					],
-					[
-						"en",
-						"Package Control: Enable Package"
-					],
-					[
-						"package",
-						"Package Control: Disable Package"
-					],
-					[
-						"pa",
-						"Package Control: Enable Package"
-					],
-					[
-						"pae",
-						"Package Control: Enable Package"
-					],
-					[
-						"packag",
-						"Package Control: Enable Package"
-					],
-					[
-						"pac",
-						"Package Control: Enable Package"
-					],
-					[
-						"pacal",
-						"Package Control: Enable Package"
-					],
-					[
-						"packagec",
-						"Package Control: Enable Package"
-					],
-					[
-						"pal",
-						"Package Control: List Packages"
-					],
-					[
-						"ena",
-						"Package Control: Enable Package"
-					],
-					[
-						"pack",
-						"Package Control: Enable Package"
-					],
-					[
-						"packa",
-						"Preferences: Package Control Settings – User"
-					],
-					[
-						"package Control",
-						"Package Control: Enable Package"
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: r",
-						"Package Control: Remove Package"
-					],
-					[
-						"install ",
-						"Package Control: Install Package"
-					],
-					[
-						"paca",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: in",
-						"Package Control: Install Package"
-					],
-					[
-						"intal",
-						"Package Control: Install Package"
-					],
-					[
-						"intall",
-						"Package Control: Install Package"
-					],
-					[
-						"Package",
-						"Preferences: Browse Packages"
-					]
-				],
-				"width": 498.0
-			},
-			"console":
-			{
-				"height": 146.0
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/C/Users/peyang/Desktop/to install list.md",
-				"/C/Users/peyang/Desktop/Desktop/SoftwareList.md",
-				"/C/Users/peyang/Desktop/Desktop/BestShortCut.md",
-				"/C/Localdata/D/Work/BCell/bcellgroup/approach1.lua",
-				"/D/Note/lua/0syntax/forloop2.lua",
-				"/D/Note/lua/A overview of Lua Simplify.md",
-				"/D/Note/lua/0syntax/f_next.lua",
-				"/D/Note/lua/Lua Syntax.md",
-				"/C/Users/peyang/Desktop/BestShortCut.md",
-				"/D/Program Files/Sublime/Data/Packages/User/Preferences.sublime-settings",
-				"/D/Program Files/Sublime/Data/Packages/User/Default (Windows).sublime-keymap",
-				"/D/Note/lua/0syntax/table1.lua",
-				"/D/Note/lua/symbol.md",
-				"/D/Note/lua/0syntax/block.lua",
-				"/D/Note/lua/0syntax/print.lua",
-				"/D/Note/lua/0syntax/forloop1.lua",
-				"/D/Note/lua/0syntax/forloop3.lua",
-				"/D/Work/weekday/8th month/week32-0808/job.lua",
-				"/D/Note/lua/A overview of Lua.md",
-				"/C/Users/peyang/Desktop/GaugeSetFile.txt",
-				"/D/Note/lua/0syntax/env.lua",
-				"/D/Work/iCAL/iCal_Song.md",
-				"/C/Users/peyang/Desktop/Sublime Text 2的 使用技巧 与 快捷键",
-				"/D/Note/lua/0syntax/lib1.lua",
-				"/D/Note/A overview of Lua.md",
-				"/C/Users/peyang/Desktop/SoftwareList.md",
-				"/D/Note/luaRun.md",
-				"/D/Program Files/Sublime/Data/Packages/User/Package Control.sublime-settings",
-				"/D/Note/lua/advanced/upvalue/AccessOuterLocal.lua",
-				"/D/Note/lua/advanced/upvalue/closure1.lua",
-				"/D/Note/lua/advanced/upvalue/closure2.lua",
-				"/D/Work/weekday/9th month/week37-0912/model calibraition customer support meeting.md",
-				"/D/Note/lua/forloop1.lua",
-				"/D/Program Files/Sublime/Data/Packages/Default/Default (Windows).sublime-keymap",
-				"/D/Note/lua/print.lua",
-				"/D/Program Files/Sublime/Data/Packages/User/Lua.sublime-settings",
-				"/D/Note/lua/0syntax/shCore.css",
-				"/D/Note/lua/0syntax/test.css",
-				"/D/Note/lua/0syntax/shThemeGist.css",
-				"/D/Work/BCell/qiang/recthole.lua",
-				"/D/Work/BCell/qiang/recthole_main.lua",
-				"/D/Work/BCell/qiang/XCDComment.lua",
-				"/D/Work/BCell/case15294/LS.lua",
-				"/D/Work/BCell/prac/peyang_test1.lua",
-				"/D/Work/BCell/qiang/SRAFW120.txt",
-				"/D/Work/BCell/qiang/main.lua",
-				"/C/Users/peyang/Desktop/srif/srif.txt",
-				"/D/Work/weekday/9th month/week37-0912/w36.md",
-				"/D/Work/BCell/prac/custom_func.lua",
-				"/D/Work/BCell/case15294/mod6345.lua",
-				"/D/Work/BCell/qiang/main2.lua",
-				"/D/Work/BCell/qiang/XCD.lua",
-				"/D/Work/weekday/9th month/test.lua",
-				"/D/Work/BCell/prac/User_Defined_Cell2.lua",
-				"/D/Work/BCell/prac/generateGaugeFromClip.lua",
-				"/D/Work/weekday/9th month/Sep schedule.md",
-				"/D/Work/BCell/prac/User_Defined_Cell.lua",
-				"/D/Work/BCell/case15294/LS_input/LS_ypc1.lua",
-				"/D/Work/BCell/case15294/LS_input/peyang_test1.lua",
-				"/D/Work/BCell/case15294/LS_input/LS.lua",
-				"/D/Program Files/Sublime/Data/Packages/Package Control/Package Control.sublime-settings",
-				"/D/Work/BCell/prac/example1/bcell.lua",
-				"/D/Program Files/Sublime/Data/Packages/User/Markdown.sublime-settings",
-				"/D/Work/iCAL/CASE-15127/CASE-15127-iCAL-EBO.md",
-				"/C/Users/peyang/Desktop/vim.md",
-				"/D/Program Files/Sublime/Data/Packages/User/Preferences2.sublime-settings",
-				"/E/MOOC/Combinatorics/ch2G1.cpp",
-				"/D/Program Files/Sublime/Data/Packages/Default/Preferences.sublime-settings",
-				"/D/Program Files/Sublime/Data/Packages/Lua Dev/Lua Dev.sublime-settings",
-				"/D/Program Files/Sublime/Data/Packages/User/JavaScript.sublime-settings",
-				"/D/Program Files/Sublime/Data/Packages/User/JSON.sublime-settings",
-				"/D/Program Files/Sublime/Data/Packages/CTags/Default.sublime-mousemap"
-			],
-			"find":
-			{
-				"height": 34.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-					""
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"main",
-					"MAIN",
-					"main",
-					"appmain",
-					"  - ",
-					"{ ",
-					"\"",
-					"attempt",
-					"x",
-					"upper",
-					"up",
-					"caps",
-					"py",
-					"px",
-					"{\n",
-					"\"];\n",
-					"loop",
-					"set_pd",
-					"...",
-					"bcl1",
-					"lay",
-					"layerout",
-					"tabs",
-					"indent",
-					"guide",
-					"indent",
-					"export_rect",
-					"setoption",
-					"set",
-					"layoutVersion",
-					"moduleName",
-					";",
-					"function",
-					"app",
-					"English	Chinese (Simplified)	",
-					"binding",
-					"Main[2/2",
-					"Main",
-					"main",
-					"main[2/2]",
-					"    \n",
-					"brute",
-					"Zheng-pu Peng <zheng-pu.peng@asml.com>; ",
-					"Kevin Ye <kevin.ye@asml.com>; ",
-					"Andy Liu <andy.liu@asml.com>",
-					"zhao",
-					"wei",
-					"peng",
-					"jing",
-					"jingjing",
-					"yu",
-					"jin-tao",
-					"jintao",
-					"li",
-					"fei-bin",
-					"fei",
-					"danie",
-					"danie;",
-					"daniel",
-					"chen",
-					"chaoqun",
-					"liu",
-					"hang",
-					"bin",
-					"jaze",
-					"ming",
-					"bean",
-					"vince",
-					"F7D81AC02005",
-					"backgroud",
-					",  ",
-					"1",
-					"10",
-					"nm",
-					"pitch",
-					"NT",
-					"stage",
-					"resisitform",
-					"{",
-					"team colla",
-					"Collaboration",
-					"coop",
-					"group",
-					"\n-",
-					"adobe"
-				],
-				"highlight": false,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					" - ",
-					"**\"",
-					"\"**",
-					"space_y",
-					"space_x",
-					"..",
-					"bcelllist1",
-					",",
-					""
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": false
-			},
-			"incremental_find":
-			{
-				"height": 34.0
-			},
-			"input":
-			{
-				"height": 34.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					],
-					[
-						1,
-						0,
-						2,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					0.5,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 118.0
-			},
-			"replace":
-			{
-				"height": 62.0
-			},
-			"save_all_on_build": false,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 500.0,
-				"selected_items":
-				[
-				],
-				"width": 380.0
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 150.0,
-			"status_bar_visible": true
-		},
-		"new_window_width": 1288.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
 					[
 						"export",
 						"export_data"
@@ -513,61 +38,6 @@
 					]
 				]
 			},
-			"buffers":
-			[
-				{
-					"file": "/C/Localdata/D/Work/weekday/9th month/week39-0930.md",
-					"settings":
-					{
-						"buffer_size": 152,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Localdata/D/Note/lua/2advanced/upvalue/closure_add2.lua",
-					"settings":
-					{
-						"buffer_size": 442,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Localdata/D/Note/lua/2advanced/iterator/it_word.lua",
-					"settings":
-					{
-						"buffer_size": 803,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Localdata/D/Note/lua/2advanced/upvalue/closure_resetVal.lua",
-					"settings":
-					{
-						"buffer_size": 725,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"contents": "Microsoft Windows [Version 6.1.7601]\nCopyright (c) 2009 Microsoft Corporation.  All rights reserved.\n\nC:\\Localdata\\D\\Note\\lua\\2advanced\\iterator>",
-					"settings":
-					{
-						"buffer_size": 145,
-						"line_ending": "Windows",
-						"name": "*REPL* [shell]",
-						"scratch": true
-					}
-				},
-				{
-					"contents": "> > > >> >> >> >> >> >> > > 1\n> 1\n> > > 1\n> 1\n> > > >> >> >> >> >> >> > > 1\n> 1\n> > > 1\n> 1\n> > > >> >> >> >> >> >> > > 1\n> 1\n> > > 1\n> 1\n> ",
-					"settings":
-					{
-						"buffer_size": 140,
-						"line_ending": "Windows",
-						"name": "*REPL* [lua]",
-						"scratch": true
-					}
-				}
-			],
 			"build_system": "",
 			"command_palette":
 			{
@@ -575,15 +45,43 @@
 				"selected_items":
 				[
 					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"git open",
+						"Git: Open..."
+					],
+					[
+						"git o",
+						"Github: Open File"
+					],
+					[
+						"git: com",
+						"Git: Commit"
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git:add",
+						"Git: Add..."
+					],
+					[
+						"git",
+						"Git: Gui"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
 						"Package Control: ins",
 						"Package Control: Install Package"
 					],
 					[
 						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"install",
 						"Package Control: Install Package"
 					],
 					[
@@ -619,16 +117,8 @@
 						"Package Control: Remove Package"
 					],
 					[
-						"git",
-						"Github: Open File"
-					],
-					[
 						"gi",
 						"Github: Repository"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
 					],
 					[
 						"enable",
@@ -768,126 +258,11 @@
 			},
 			"file_history":
 			[
-				"/C/Localdata/D/Note/lua/2advanced/upvalue/closure_counter2.lua",
-				"/C/Localdata/D/Note/lua/2advanced/upvalue/closure_counter.lua",
-				"/C/Localdata/D/Note/lua/2advanced/upvalue/closure_get_set.lua",
-				"/C/Localdata/D/Note/lua/9blog/ch7.iterator and the generic for.md",
-				"/C/Users/peyang/Desktop/Desktop/BestShortCut.md",
-				"/C/Localdata/D/Note/lua/9blog/table traverse in Lua.md",
-				"/C/Localdata/D/Note/lua/1syntax/forloop_iter.lua",
-				"/C/Localdata/D/Note/lua/1syntax/forloop1.lua",
-				"/C/Localdata/D/Note/lua/1syntax/fact.lua",
-				"/C/Localdata/D/Note/lua/1syntax/forloop_pairs.lua",
-				"/C/Localdata/D/Note/lua/1syntax/forloop3.lua",
-				"/C/Localdata/D/Note/lua/1syntax/forloop2.lua",
-				"/C/Localdata/D/Note/lua/9blog/A overview of Lua Simplify.md",
-				"/C/Localdata/D/Note/lua/9blog/ch6.functions in Lua.md",
-				"/C/Localdata/D/Program Files/Sublime/Data/Packages/User/Preferences.sublime-settings",
-				"/C/Localdata/D/Note/lua/fem/job_filter_sigma.lua",
-				"/C/Localdata/D/Note/lua/9blog/1.cpp",
-				"/C/Localdata/D/Note/lua/1syntax/print1.lua",
-				"/C/Localdata/D/Note/lua/2advanced/funcValue/func_plot.lua",
-				"/C/Localdata/D/Note/lua/2advanced/funcValue/func_recursive_local.lua",
-				"/C/Localdata/D/Note/lua/2advanced/funcValue/func_recursive_local2.lua",
-				"/C/Localdata/D/Work/weekday/9th month/week37-0912/w36.md",
-				"/C/Localdata/D/Note/lua/2advanced/funcValue/lua.exe",
-				"/C/Localdata/D/Note/lua/2advanced/funcValue/func_rename.lua",
-				"/C/Localdata/D/Note/lua/2advanced/upvalue/closure_resetVal.lua",
-				"/C/Localdata/D/Note/lua/2advanced/upvalue/closure_add2.lua",
-				"/C/Localdata/D/Note/lua/1syntax/block.lua",
-				"/C/Localdata/D/Note/lua/2advanced/iterator/it_word.lua",
-				"/C/Localdata/D/Program Files/Sublime/Data/Packages/SublimeREPL/SublimeREPL.sublime-settings",
-				"/C/Localdata/D/Program Files/Sublime/Data/Packages/User/Package Control.sublime-settings",
-				"/C/Localdata/D/Program Files/Sublime/Data/Packages/Default/Default (Windows).sublime-keymap",
-				"/C/Localdata/D/Program Files/Sublime/Data/Packages/User/Default (Windows).sublime-keymap",
-				"/C/Localdata/D/Program Files/Sublime/Data/Packages/User/SublimeREPL.sublime-settings",
-				"/C/Users/peyang/1.md",
-				"/C/Localdata/D/Note/lua/9blog/functions in Lua.md",
-				"/C/Localdata/D/Note/lua/9blog/luaRun.md",
-				"/C/Users/peyang/Desktop/to install list.md",
-				"/C/Localdata/D/Note/lua/9blog/env.lua",
-				"/C/Localdata/D/Note/lua/9blog/A overview of Lua.md",
-				"/C/Localdata/D/Note/lua/9blog/symbol.md",
-				"/C/Users/peyang/Desktop/Imaging.m",
-				"/C/Localdata/D/Program Files/Sublime/Data/Packages/Default/Preferences.sublime-settings",
-				"/C/Localdata/D/Note/lua/1syntax/print.lua",
-				"/C/Localdata/D/Work/BCell/case15294/mod6345.lua",
-				"/C/Localdata/C/tachyon/tachyon-gui-setting-peyang.cfg",
-				"/C/Localdata/C/tachyon/log_history",
-				"/C/Localdata/D/Note/lua/1syntax/maze_game.lua",
-				"/G/ASML_D/Program Files/Sublime/Data/Packages/User/Package Control.sublime-settings",
-				"/C/Localdata/D/Note/cpp/overload_override_hide.cpp",
-				"/C/Localdata/D/Note/lua/2advanced/upvalue/AccessOuterLocal.lua",
-				"/C/Users/peyang/Desktop/Desktop/SoftwareList.md",
-				"/C/Localdata/D/Work/BCell/bcellgroup/approach1.lua",
-				"/D/Note/lua/0syntax/forloop2.lua",
-				"/D/Note/lua/A overview of Lua Simplify.md",
-				"/D/Note/lua/0syntax/f_next.lua",
-				"/D/Note/lua/Lua Syntax.md",
-				"/C/Users/peyang/Desktop/BestShortCut.md",
-				"/D/Program Files/Sublime/Data/Packages/User/Preferences.sublime-settings",
-				"/D/Program Files/Sublime/Data/Packages/User/Default (Windows).sublime-keymap",
-				"/D/Note/lua/0syntax/table1.lua",
-				"/D/Note/lua/symbol.md",
-				"/D/Note/lua/0syntax/block.lua",
-				"/D/Note/lua/0syntax/print.lua",
-				"/D/Note/lua/0syntax/forloop1.lua",
-				"/D/Note/lua/0syntax/forloop3.lua",
-				"/D/Work/weekday/8th month/week32-0808/job.lua",
-				"/D/Note/lua/A overview of Lua.md",
-				"/C/Users/peyang/Desktop/GaugeSetFile.txt",
-				"/D/Note/lua/0syntax/env.lua",
-				"/D/Work/iCAL/iCal_Song.md",
-				"/C/Users/peyang/Desktop/Sublime Text 2的 使用技巧 与 快捷键",
-				"/D/Note/lua/0syntax/lib1.lua",
-				"/D/Note/A overview of Lua.md",
-				"/C/Users/peyang/Desktop/SoftwareList.md",
-				"/D/Note/luaRun.md",
-				"/D/Program Files/Sublime/Data/Packages/User/Package Control.sublime-settings",
-				"/D/Note/lua/advanced/upvalue/AccessOuterLocal.lua",
-				"/D/Note/lua/advanced/upvalue/closure1.lua",
-				"/D/Note/lua/advanced/upvalue/closure2.lua",
-				"/D/Work/weekday/9th month/week37-0912/model calibraition customer support meeting.md",
-				"/D/Note/lua/forloop1.lua",
-				"/D/Program Files/Sublime/Data/Packages/Default/Default (Windows).sublime-keymap",
-				"/D/Note/lua/print.lua",
-				"/D/Program Files/Sublime/Data/Packages/User/Lua.sublime-settings",
-				"/D/Note/lua/0syntax/shCore.css",
-				"/D/Note/lua/0syntax/test.css",
-				"/D/Note/lua/0syntax/shThemeGist.css",
-				"/D/Work/BCell/qiang/recthole.lua",
-				"/D/Work/BCell/qiang/recthole_main.lua",
-				"/D/Work/BCell/qiang/XCDComment.lua",
-				"/D/Work/BCell/case15294/LS.lua",
-				"/D/Work/BCell/prac/peyang_test1.lua",
-				"/D/Work/BCell/qiang/SRAFW120.txt",
-				"/D/Work/BCell/qiang/main.lua",
-				"/C/Users/peyang/Desktop/srif/srif.txt",
-				"/D/Work/weekday/9th month/week37-0912/w36.md",
-				"/D/Work/BCell/prac/custom_func.lua",
-				"/D/Work/BCell/case15294/mod6345.lua",
-				"/D/Work/BCell/qiang/main2.lua",
-				"/D/Work/BCell/qiang/XCD.lua",
-				"/D/Work/weekday/9th month/test.lua",
-				"/D/Work/BCell/prac/User_Defined_Cell2.lua",
-				"/D/Work/BCell/prac/generateGaugeFromClip.lua",
-				"/D/Work/weekday/9th month/Sep schedule.md",
-				"/D/Work/BCell/prac/User_Defined_Cell.lua",
-				"/D/Work/BCell/case15294/LS_input/LS_ypc1.lua",
-				"/D/Work/BCell/case15294/LS_input/peyang_test1.lua",
-				"/D/Work/BCell/case15294/LS_input/LS.lua",
-				"/D/Program Files/Sublime/Data/Packages/Package Control/Package Control.sublime-settings",
-				"/D/Work/BCell/prac/example1/bcell.lua",
-				"/D/Program Files/Sublime/Data/Packages/User/Markdown.sublime-settings",
-				"/D/Work/iCAL/CASE-15127/CASE-15127-iCAL-EBO.md",
-				"/C/Users/peyang/Desktop/vim.md",
-				"/D/Program Files/Sublime/Data/Packages/User/Preferences2.sublime-settings",
-				"/E/MOOC/Combinatorics/ch2G1.cpp",
-				"/D/Program Files/Sublime/Data/Packages/Default/Preferences.sublime-settings",
-				"/D/Program Files/Sublime/Data/Packages/Lua Dev/Lua Dev.sublime-settings",
-				"/D/Program Files/Sublime/Data/Packages/User/JavaScript.sublime-settings",
-				"/D/Program Files/Sublime/Data/Packages/User/JSON.sublime-settings",
-				"/D/Program Files/Sublime/Data/Packages/CTags/Default.sublime-mousemap"
+				"/C/Localdata/D/Note/lua/9blog/findbestfocus.md",
+				"/C/Localdata/D/Work/autoCal/note/host.log",
+				"/C/Users/peyang/Desktop/Desktop/Unix Command.txt",
+				"/C/Users/peyang/Desktop/Desktop/Access.txt",
+				"/C/Users/peyang/Desktop/to install list.md"
 			],
 			"find":
 			{
@@ -906,6 +281,69 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"scp",
+					"my_variables",
+					"\\_",
+					"best_opt",
+					"my_resist_models",
+					"binding",
+					"modelselect",
+					"model",
+					"adjust_target",
+					"cache",
+					"Q1.",
+					"adjust_resist_parameter calrangetrunc:",
+					"OpticalTuning1 ",
+					"OpticalTuning1 final useterms:",
+					"adjust_resist_parameter: (",
+					"OpticalTuning1 original useterms",
+					"OpticalTuning1 input best focus = ",
+					"/",
+					"load_useterms_from_best_model = function",
+					"get_stage_result = function",
+					"get_stage_result",
+					"2nd OPTICAL TUNING STAGE",
+					"1st OPTICAL TUNING STAGE",
+					"get_",
+					"autocal_def",
+					"get_stage_result",
+					"autocal_modelselect",
+					"\"BestFocusFind: defocus are: \"",
+					"pitch_04A7_K13_1",
+					"condition vector id = 2",
+					"condition vector id = 7",
+					"condition vector id = 6",
+					"condition vector id = 5",
+					"condition vector id = 4",
+					"condition vector id = 3",
+					"condition vector id = 2",
+					"/",
+					"condAllParams",
+					"BestFocusFind: my variables:",
+					"computeDOF: negative_delta_cd = ",
+					"FocusShiftFind:",
+					"FocusShiftFind: sorted wcd matrix is",
+					"final wcd matrix is",
+					"FocusShiftFind: final wcd matrix is",
+					"get_length",
+					"autocal_modelselect",
+					"get_length",
+					"cmpByDef",
+					"truncate",
+					"]\n",
+					"superscript",
+					"polyfit",
+					"function",
+					"$*",
+					"*$",
+					"b$",
+					"$a",
+					"pixel",
+					"Date :09/26/2014\n\nBC BUS Group meeting\n\nCASE-15570: pixel size influences model accuracy\n---\n\n## description\nMXIC run autoCal in r20130901 and found pixel size influences model accuracy significantly.\nCondition: na=0.55, wavelength= 248, source= annular, sigma= 0.85/0.533\nAccording to our suggestion in manual, the pixel size is min(wavelength/(10NA), 0.4xmin(waferCD within design rule), that is 45nm for this case. MXIC found lower pixel size sometimes get worst RMS. They asked the reason and what is the suggested pixel_size and ambit.\nAttached please find their result.\nThanks.\n\n### criteria 1 \n[conflunce model FAQ](http://confluence.briontech.com/display/QZ/Frequently+Asked+Questions)\nThe reasonable pixel size should be about 30% to 40% of the minimum feature size. The minimum feature size should be larger than the theoretical minimum pitch [1/(1+σ)]*(λ/NA)\n$$\npixel\\_size = (30\\% \\sim 40\\%) * feature\\_size_{min}\n\\\\feature\\_size_{min} \\leq [1/(1+\\sigma)]*(\\lambda/NA)\n$$\n\n### criteria 2\n[Model Customer training slide basic level slide1 Page37](http://confluence.briontech.com/display/QZ/Model+PEG+customer+training+page)\n1.  Suggested pixel size = wavelength/10NA; \nand smallest pixel size = waferCD/2.5 or targetCD/2.5.\n$$pixel\\_size = (\\lambda/10N\\!A)$$\n$$\\\\pixel\\_size = waferCD_{min}/2.5\n \\\\ or\\quad pixel\\_size = targetCD_{min}/2.5$$\n\n Besides, the suggested pixel size values for 193 nm wavelength related with the NA  are given in the table.\n\n|       |   NA          | Pixel Size\n------  | -------       | -------\n| 1     | <0.8          | 25\n| 2     | 0.8~0.95      | 20\n| 3     | 0.95~1.05     | 18\n| 4     | 1.05~1.2      | 16\n| 5     | \\>1.2         | 14|\n\n- Resolution of pitch pattern: $ \\lambda / 2N\\!A $\n- Nyquist law : $ \\lambda / 4N\\!A $\n- guard band : $ \\lambda / 5N\\!A $\n- resist up sample : $ \\lambda / 10N\\!A $\n\n- Parameters related with pixel size. \n  + Default `ambit size` \n  + `Spatial coverage of Gaussian kernel` in resist terms\n\n- Run time related with pixel size\n  + Very small for calibration job\n  + Significant for LMC/OPC job.\n\nambit\n---\n\n- Recommend user to set ambit =1.28um in GUI \n- Tachyon SMO tool only accept model with ambit>1.1um\n- Too small ambit will bring impact in optical accuracy, especially off-nominal condition and M3D model.\n- Ambit size influences simulation throughput in OPC and LMC, but little for calibration run time. \n\n\n\n\n\n## 建议工作方式\n没办法拿到data，\n所以，只能我 提建议 -> FAE 操作 -> feedback 结果，再建议 ， 分解问题\n\n## 原因分析与相应建议\nQ1. 这个pixel size改变也会导致resist model改变，RMS变化自然会改变。\n要验证这个，一定要知道原因的话，可以选择 optical model试试。\n\nQ2. what is the suggested pixel_size and ambit？\n这个就是 我们的suggest的作用\n\n\n\n\n\nGauge clean\n----\n\n1. 应该的方案：model error -> histogram ->Gaussian distribution function filtering -> 选取3sigma ( 即99.97处 )\n2. 实际的code：排序 数数 确定model error为3sigma 中99.97处的gauge\n3. new proposal : 从大于 3XRMS的gauge中选取\n",
+					"arg",
+					"\\",
+					"font",
+					"cursor",
 					"```",
 					"value",
 					"val",
@@ -970,49 +408,7 @@
 					"main[2/2]",
 					"    \n",
 					"brute",
-					"Zheng-pu Peng <zheng-pu.peng@asml.com>; ",
-					"Kevin Ye <kevin.ye@asml.com>; ",
-					"Andy Liu <andy.liu@asml.com>",
-					"zhao",
-					"wei",
-					"peng",
-					"jing",
-					"jingjing",
-					"yu",
-					"jin-tao",
-					"jintao",
-					"li",
-					"fei-bin",
-					"fei",
-					"danie",
-					"danie;",
-					"daniel",
-					"chen",
-					"chaoqun",
-					"liu",
-					"hang",
-					"bin",
-					"jaze",
-					"ming",
-					"bean",
-					"vince",
-					"F7D81AC02005",
-					"backgroud",
-					",  ",
-					"1",
-					"10",
-					"nm",
-					"pitch",
-					"NT",
-					"stage",
-					"resisitform",
-					"{",
-					"team colla",
-					"Collaboration",
-					"coop",
-					"group",
-					"\n-",
-					"adobe"
+					"Zheng-pu Peng <zheng-pu.peng@asml.com>; "
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1020,6 +416,557 @@
 				"regex": false,
 				"replace_history":
 				[
+					"_",
+					"-",
+					"\\",
+					"$`",
+					"`$",
+					"b$*",
+					"*$a",
+					"/",
+					"```",
+					"...",
+					"get_val",
+					"value",
+					" - ",
+					"**\"",
+					"\"**",
+					"space_y",
+					"space_x",
+					"..",
+					"bcelllist1",
+					",",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 118.0
+			},
+			"output.git":
+			{
+				"height": 118.0
+			},
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 880.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"best",
+						"best_focus2"
+					],
+					[
+						"export",
+						"export_data"
+					],
+					[
+						"fu",
+						"function	function"
+					],
+					[
+						"num",
+						"num_y"
+					],
+					[
+						"bce",
+						"bcelllist1"
+					],
+					[
+						"cod",
+						"code	Tag"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Localdata/D/Note/lua/9blog/findbestfocus.md",
+					"settings":
+					{
+						"buffer_size": 8650,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/peyang/Desktop/autocal/autocal_findbestfocus.lua",
+					"settings":
+					{
+						"buffer_size": 43170,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/peyang/Documents/GitHub/User-Guides/Tachyon.md",
+					"settings":
+					{
+						"buffer_size": 486,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 60.0,
+				"selected_items":
+				[
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"git open",
+						"Git: Open..."
+					],
+					[
+						"git o",
+						"Github: Open File"
+					],
+					[
+						"git: com",
+						"Git: Commit"
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git:add",
+						"Git: Add..."
+					],
+					[
+						"git",
+						"Git: Gui"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"add ",
+						"Package Control: Add Repository"
+					],
+					[
+						"add",
+						"Package Control: Add Repository"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"add re",
+						"Package Control: Add Repository"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"gi",
+						"Github: Repository"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"repl",
+						"SublimeREPL: Shell"
+					],
+					[
+						"REPL",
+						"SublimeREPL: Lua"
+					],
+					[
+						"enble",
+						"Package Control: Enable Package"
+					],
+					[
+						"",
+						"CTags: Show Symbols (all)"
+					],
+					[
+						"remp",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"remv",
+						"Package Control: Remove Package"
+					],
+					[
+						"package in",
+						"Package Control: Install Package"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"enab",
+						"Package Control: Enable Package"
+					],
+					[
+						"en",
+						"Package Control: Enable Package"
+					],
+					[
+						"pa",
+						"Package Control: Enable Package"
+					],
+					[
+						"pae",
+						"Package Control: Enable Package"
+					],
+					[
+						"packag",
+						"Package Control: Enable Package"
+					],
+					[
+						"pac",
+						"Package Control: Enable Package"
+					],
+					[
+						"pacal",
+						"Package Control: Enable Package"
+					],
+					[
+						"packagec",
+						"Package Control: Enable Package"
+					],
+					[
+						"pal",
+						"Package Control: List Packages"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"pack",
+						"Package Control: Enable Package"
+					],
+					[
+						"packa",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"package Control",
+						"Package Control: Enable Package"
+					],
+					[
+						"Package Control: r",
+						"Package Control: Remove Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"paca",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"intal",
+						"Package Control: Install Package"
+					],
+					[
+						"intall",
+						"Package Control: Install Package"
+					],
+					[
+						"Package",
+						"Preferences: Browse Packages"
+					]
+				],
+				"width": 386.0
+			},
+			"console":
+			{
+				"height": 146.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Localdata/D/Work/weekday/10th month/m10.20.md",
+				"/C/Localdata/D/Work/weekday/10th month/m10.22.md",
+				"/C/Users/peyang/Documents/GitHub/User-Guides/MSOffice.md",
+				"/C/Users/peyang/Desktop/autocal/autocal_resisttuning.lua",
+				"/C/Users/peyang/Desktop/autocal/bestfocus_find.lua",
+				"/C/Users/peyang/Desktop/autocal/SRAFFEMPlusCal.lua",
+				"/C/Users/peyang/Desktop/autocal/autocal.lua",
+				"/C/Users/peyang/Desktop/src/femplus/femplus.lua",
+				"/C/Localdata/D/Note/lua/9blog/findbestfocus.md",
+				"/C/Localdata/D/Work/autoCal/note/host.log",
+				"/C/Users/peyang/Desktop/Desktop/Unix Command.txt",
+				"/C/Users/peyang/Desktop/Desktop/Access.txt",
+				"/C/Users/peyang/Desktop/to install list.md"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"scp",
+					"my_variables",
+					"\\_",
+					"best_opt",
+					"my_resist_models",
+					"binding",
+					"modelselect",
+					"model",
+					"adjust_target",
+					"cache",
+					"Q1.",
+					"adjust_resist_parameter calrangetrunc:",
+					"OpticalTuning1 ",
+					"OpticalTuning1 final useterms:",
+					"adjust_resist_parameter: (",
+					"OpticalTuning1 original useterms",
+					"OpticalTuning1 input best focus = ",
+					"/",
+					"load_useterms_from_best_model = function",
+					"get_stage_result = function",
+					"get_stage_result",
+					"2nd OPTICAL TUNING STAGE",
+					"1st OPTICAL TUNING STAGE",
+					"get_",
+					"autocal_def",
+					"get_stage_result",
+					"autocal_modelselect",
+					"\"BestFocusFind: defocus are: \"",
+					"pitch_04A7_K13_1",
+					"condition vector id = 2",
+					"condition vector id = 7",
+					"condition vector id = 6",
+					"condition vector id = 5",
+					"condition vector id = 4",
+					"condition vector id = 3",
+					"condition vector id = 2",
+					"/",
+					"condAllParams",
+					"BestFocusFind: my variables:",
+					"computeDOF: negative_delta_cd = ",
+					"FocusShiftFind:",
+					"FocusShiftFind: sorted wcd matrix is",
+					"final wcd matrix is",
+					"FocusShiftFind: final wcd matrix is",
+					"get_length",
+					"autocal_modelselect",
+					"get_length",
+					"cmpByDef",
+					"truncate",
+					"]\n",
+					"superscript",
+					"polyfit",
+					"function",
+					"$*",
+					"*$",
+					"b$",
+					"$a",
+					"pixel",
+					"Date :09/26/2014\n\nBC BUS Group meeting\n\nCASE-15570: pixel size influences model accuracy\n---\n\n## description\nMXIC run autoCal in r20130901 and found pixel size influences model accuracy significantly.\nCondition: na=0.55, wavelength= 248, source= annular, sigma= 0.85/0.533\nAccording to our suggestion in manual, the pixel size is min(wavelength/(10NA), 0.4xmin(waferCD within design rule), that is 45nm for this case. MXIC found lower pixel size sometimes get worst RMS. They asked the reason and what is the suggested pixel_size and ambit.\nAttached please find their result.\nThanks.\n\n### criteria 1 \n[conflunce model FAQ](http://confluence.briontech.com/display/QZ/Frequently+Asked+Questions)\nThe reasonable pixel size should be about 30% to 40% of the minimum feature size. The minimum feature size should be larger than the theoretical minimum pitch [1/(1+σ)]*(λ/NA)\n$$\npixel\\_size = (30\\% \\sim 40\\%) * feature\\_size_{min}\n\\\\feature\\_size_{min} \\leq [1/(1+\\sigma)]*(\\lambda/NA)\n$$\n\n### criteria 2\n[Model Customer training slide basic level slide1 Page37](http://confluence.briontech.com/display/QZ/Model+PEG+customer+training+page)\n1.  Suggested pixel size = wavelength/10NA; \nand smallest pixel size = waferCD/2.5 or targetCD/2.5.\n$$pixel\\_size = (\\lambda/10N\\!A)$$\n$$\\\\pixel\\_size = waferCD_{min}/2.5\n \\\\ or\\quad pixel\\_size = targetCD_{min}/2.5$$\n\n Besides, the suggested pixel size values for 193 nm wavelength related with the NA  are given in the table.\n\n|       |   NA          | Pixel Size\n------  | -------       | -------\n| 1     | <0.8          | 25\n| 2     | 0.8~0.95      | 20\n| 3     | 0.95~1.05     | 18\n| 4     | 1.05~1.2      | 16\n| 5     | \\>1.2         | 14|\n\n- Resolution of pitch pattern: $ \\lambda / 2N\\!A $\n- Nyquist law : $ \\lambda / 4N\\!A $\n- guard band : $ \\lambda / 5N\\!A $\n- resist up sample : $ \\lambda / 10N\\!A $\n\n- Parameters related with pixel size. \n  + Default `ambit size` \n  + `Spatial coverage of Gaussian kernel` in resist terms\n\n- Run time related with pixel size\n  + Very small for calibration job\n  + Significant for LMC/OPC job.\n\nambit\n---\n\n- Recommend user to set ambit =1.28um in GUI \n- Tachyon SMO tool only accept model with ambit>1.1um\n- Too small ambit will bring impact in optical accuracy, especially off-nominal condition and M3D model.\n- Ambit size influences simulation throughput in OPC and LMC, but little for calibration run time. \n\n\n\n\n\n## 建议工作方式\n没办法拿到data，\n所以，只能我 提建议 -> FAE 操作 -> feedback 结果，再建议 ， 分解问题\n\n## 原因分析与相应建议\nQ1. 这个pixel size改变也会导致resist model改变，RMS变化自然会改变。\n要验证这个，一定要知道原因的话，可以选择 optical model试试。\n\nQ2. what is the suggested pixel_size and ambit？\n这个就是 我们的suggest的作用\n\n\n\n\n\nGauge clean\n----\n\n1. 应该的方案：model error -> histogram ->Gaussian distribution function filtering -> 选取3sigma ( 即99.97处 )\n2. 实际的code：排序 数数 确定model error为3sigma 中99.97处的gauge\n3. new proposal : 从大于 3XRMS的gauge中选取\n",
+					"arg",
+					"\\",
+					"font",
+					"cursor",
+					"```",
+					"value",
+					"val",
+					"iter",
+					"ctrl+,",
+					"ctrl+",
+					"ctrl+,",
+					"note",
+					"notr",
+					"...",
+					"</code>",
+					"<code>",
+					"git",
+					"tab",
+					"dns",
+					"primary",
+					"Primary DNS Suffix",
+					"value",
+					"list_iter",
+					"光标",
+					"list_iter",
+					"params_loop",
+					"main",
+					"MAIN",
+					"main",
+					"appmain",
+					"  - ",
+					"{ ",
+					"\"",
+					"attempt",
+					"x",
+					"upper",
+					"up",
+					"caps",
+					"py",
+					"px",
+					"{\n",
+					"\"];\n",
+					"loop",
+					"set_pd",
+					"...",
+					"bcl1",
+					"lay",
+					"layerout",
+					"tabs",
+					"indent",
+					"guide",
+					"indent",
+					"export_rect",
+					"setoption",
+					"set",
+					"layoutVersion",
+					"moduleName",
+					";",
+					"function",
+					"app",
+					"English	Chinese (Simplified)	",
+					"binding",
+					"Main[2/2",
+					"Main",
+					"main",
+					"main[2/2]",
+					"    \n",
+					"brute",
+					"Zheng-pu Peng <zheng-pu.peng@asml.com>; "
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"_",
+					"-",
+					"\\",
+					"$`",
+					"`$",
+					"b$*",
+					"*$a",
+					"/",
 					"```",
 					"...",
 					"get_val",
@@ -1048,547 +995,183 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/C/Localdata/D/Work/weekday/9th month/week39-0930.md",
+							"file": "/C/Localdata/D/Note/lua/9blog/findbestfocus.md",
 							"settings":
 							{
-								"buffer_size": 152,
+								"buffer_size": 8650,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										99,
-										99
+										8585,
+										8585
 									]
 								],
 								"settings":
 								{
-									"codeintel": true,
-									"codeintel_config":
-									{
-										"JavaScript":
-										{
-											"codeintel_max_recursive_dir_depth": 2.0,
-											"codeintel_scan_files_in_project": false,
-											"javascriptExtraPaths":
-											[
-											]
-										},
-										"PHP":
-										{
-											"codeintel_max_recursive_dir_depth": 5.0,
-											"codeintel_scan_files_in_project": false,
-											"phpExtraPaths":
-											[
-											]
-										},
-										"Python":
-										{
-											"env":
-											{
-											}
-										}
-									},
-									"codeintel_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_live": true,
-									"codeintel_live_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_max_recursive_dir_depth": 10.0,
-									"codeintel_scan_exclude_dir":
-									{
-										"JavaScript":
-										[
-											"/build/",
-											"/min/"
-										]
-									},
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-										"PyWin32",
-										"jQuery",
-										"Rails"
-									],
-									"codeintel_snippets": true,
-									"codeintel_syntax_map":
-									{
-										"Python Django": "Python"
-									},
-									"codeintel_tooltips": "popup",
-									"sublime_auto_complete": true,
-									"syntax": "Packages/Markdown/Markdown.tmLanguage"
+									"syntax": "Packages/Markdown/Markdown.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 66.0,
+								"translation.y": 8589.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 1,
-							"file": "/C/Localdata/D/Note/lua/2advanced/upvalue/closure_add2.lua",
+							"file": "/C/Users/peyang/Desktop/autocal/autocal_findbestfocus.lua",
 							"settings":
 							{
-								"buffer_size": 442,
+								"buffer_size": 43170,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										112,
-										112
+										42529,
+										42529
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Lua/Lua.tmLanguage"
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2.0,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5.0,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10.0,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"sublime_auto_complete": true,
+									"syntax": "Packages/Lua/Lua.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 21029.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 2,
-							"file": "/C/Localdata/D/Note/lua/2advanced/iterator/it_word.lua",
+							"file": "/C/Users/peyang/Documents/GitHub/User-Guides/Tachyon.md",
 							"settings":
 							{
-								"buffer_size": 803,
+								"buffer_size": 486,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										179,
-										179
+										483,
+										483
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Lua/Lua.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/C/Localdata/D/Note/lua/2advanced/upvalue/closure_resetVal.lua",
-							"settings":
-							{
-								"buffer_size": 725,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										550,
-										550
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Lua/Lua.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						}
-					]
-				},
-				{
-					"selected": 1,
-					"sheets":
-					[
-						{
-							"buffer": 4,
-							"settings":
-							{
-								"buffer_size": 145,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										145,
-										145
-									]
-								],
-								"settings":
-								{
-									"auto_complete": true,
-									"auto_indent": false,
-									"codeintel": true,
-									"codeintel_config":
-									{
-										"JavaScript":
-										{
-											"codeintel_max_recursive_dir_depth": 2.0,
-											"codeintel_scan_files_in_project": false,
-											"javascriptExtraPaths":
-											[
-											]
-										},
-										"PHP":
-										{
-											"codeintel_max_recursive_dir_depth": 5.0,
-											"codeintel_scan_files_in_project": false,
-											"phpExtraPaths":
-											[
-											]
-										},
-										"Python":
-										{
-											"env":
-											{
-											}
-										}
-									},
-									"codeintel_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_live": true,
-									"codeintel_live_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_max_recursive_dir_depth": 10.0,
-									"codeintel_scan_exclude_dir":
-									{
-										"JavaScript":
-										[
-											"/build/",
-											"/min/"
-										]
-									},
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-										"PyWin32",
-										"jQuery",
-										"Rails"
-									],
-									"codeintel_snippets": true,
-									"codeintel_syntax_map":
-									{
-										"Python Django": "Python"
-									},
-									"codeintel_tooltips": "popup",
-									"detect_indentation": false,
-									"gutter": false,
-									"history_arrows": true,
-									"indent_subsequent_lines": false,
-									"line_numbers": false,
-									"repl": true,
-									"repl_external_id": "shell",
-									"repl_id": "57bf112b906b4a5d858f84110bfbce19",
-									"repl_restart_args":
-									{
-										"cmd":
-										{
-											"linux":
-											[
-												"bash",
-												"-i"
-											],
-											"osx":
-											[
-												"bash",
-												"-i"
-											],
-											"windows":
-											[
-												"cmd.exe"
-											]
-										},
-										"cmd_postfix": "\n",
-										"cwd": "$file_path",
-										"encoding":
-										{
-											"linux": "utf-8",
-											"osx": "utf-8",
-											"windows": "$win_cmd_encoding"
-										},
-										"env":
-										{
-										},
-										"external_id": "shell",
-										"suppress_echo": true,
-										"syntax": "Packages/Text/Plain text.tmLanguage",
-										"type": "subprocess"
-									},
-									"repl_sublime2": true,
-									"smart_indent": false,
-									"spell_check": false,
-									"sublime_auto_complete": true,
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 54.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"settings":
-							{
-								"buffer_size": 140,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										140,
-										140
-									]
-								],
-								"settings":
-								{
-									"auto_complete": true,
-									"auto_indent": false,
-									"codeintel": true,
-									"codeintel_config":
-									{
-										"JavaScript":
-										{
-											"codeintel_max_recursive_dir_depth": 2.0,
-											"codeintel_scan_files_in_project": false,
-											"javascriptExtraPaths":
-											[
-											]
-										},
-										"PHP":
-										{
-											"codeintel_max_recursive_dir_depth": 5.0,
-											"codeintel_scan_files_in_project": false,
-											"phpExtraPaths":
-											[
-											]
-										},
-										"Python":
-										{
-											"env":
-											{
-											}
-										}
-									},
-									"codeintel_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_live": true,
-									"codeintel_live_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_max_recursive_dir_depth": 10.0,
-									"codeintel_scan_exclude_dir":
-									{
-										"JavaScript":
-										[
-											"/build/",
-											"/min/"
-										]
-									},
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-										"PyWin32",
-										"jQuery",
-										"Rails"
-									],
-									"codeintel_snippets": true,
-									"codeintel_syntax_map":
-									{
-										"Python Django": "Python"
-									},
-									"codeintel_tooltips": "popup",
-									"detect_indentation": false,
-									"gutter": false,
-									"history_arrows": true,
-									"indent_subsequent_lines": false,
-									"line_numbers": false,
-									"repl": true,
-									"repl_external_id": "lua",
-									"repl_id": "ffca95383be145df871ec22b232630d2",
-									"repl_restart_args":
-									{
-										"cmd":
-										[
-											"lua",
-											"-i"
-										],
-										"cwd": "$file_path",
-										"encoding": "utf8",
-										"external_id": "lua",
-										"syntax": "Packages/Lua/Lua.tmLanguage",
-										"type": "subprocess"
-									},
-									"repl_sublime2": true,
-									"smart_indent": false,
-									"spell_check": false,
-									"sublime_auto_complete": true,
-									"syntax": "Packages/Lua/Lua.tmLanguage",
-									"translate_tabs_to_spaces": false
+									"syntax": "Packages/Markdown/Markdown.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -1616,18 +1199,11 @@
 						0,
 						1,
 						1
-					],
-					[
-						1,
-						0,
-						2,
-						1
 					]
 				],
 				"cols":
 				[
 					0.0,
-					0.5,
 					1.0
 				],
 				"rows":
@@ -1641,7 +1217,11 @@
 			{
 				"height": 118.0
 			},
-			"position": "0,2,3,-1,-1,-1,-1,768,1370,2,2332",
+			"output.git":
+			{
+				"height": 118.0
+			},
+			"position": "0,2,3,-32062,-32000,-1,-1,756,408,166,1304",
 			"replace":
 			{
 				"height": 62.0
@@ -1669,7 +1249,7 @@
 			"side_bar_visible": true,
 			"side_bar_width": 150.0,
 			"status_bar_visible": true,
-			"window_id": 5,
+			"window_id": 19,
 			"workspace_name": ""
 		}
 	],
